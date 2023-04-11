@@ -1,6 +1,6 @@
 # glocken
 
-[![Michaelskirche Entringen](https://www.ev-kirche-entringen.de/fileadmin/mediapool/gemeinden/KG_entringen/michaelskirche.jpg)](https://www.ev-kirche-entringen.de/)
+[![Michaelskirche Entringen](https://www.breitenholz-entringen-evangelisch.de/fileadmin/_processed_/d/f/csm_2021-0523-Geb%C3%A4ude-Entringen-Kirche-P1000002_63bae670e9.jpg)](https://www.breitenholz-entringen-evangelisch.de/ "Website of our church community")
 
 Simulator for the church bells in Entringen, Germany.
 It can realistically reproduce the core schedule after which the bells are currently (2021) rung.
